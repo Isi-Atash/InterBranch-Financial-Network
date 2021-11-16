@@ -1,0 +1,10 @@
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.csproj.AssemblyReference.cache
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.ExpressMain.resources
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.FrmAddCustomer.resources
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.FrmAddMT.resources
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.FrmCipher.resources
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.Properties.Resources.resources
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.UsrExpressCurrentAccount.resources
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.UsrExpressNoUser.resources
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.csproj.GenerateResource.cache
+D:\Repos\TuranBankSoft\source\ExpressTr\obj\Debug\ExpressTr.exe.licenses
